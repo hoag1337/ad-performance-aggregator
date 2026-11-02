@@ -1,0 +1,7 @@
+target/
+*.class
+ad_data.csv
+ad_data.csv.zip
+.idea/
+*.iml
+PROMPTS.md
